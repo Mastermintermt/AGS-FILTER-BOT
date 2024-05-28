@@ -117,13 +117,13 @@ Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Updat
 ### Optional Variables
 * <b>`PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/info.py) for more optional variables.</b>
+* Check [info.py](https://github.com/TheBlackLion17/AGS-FILTER-BOT/info.py) for more optional variables.</b>
 
 
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/TheBlackLion17/AGS-FILTER-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
